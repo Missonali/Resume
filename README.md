@@ -1,2 +1,77 @@
 # Resume
 Details
+
+<!-- saved from url=(0044)file:///C:/Users/DELL/Desktop/resume%20.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title> RESUME </title>
+</head>
+
+<body>
+<center>
+<h1>
+<u> MY RESUME </u>
+</h1>
+</center>
+
+
+<h2> SONALI MISHRA </h2>
+<h4> 119/458 DARSHAN PUWRA KANPUR </h4><h4>
+</h4><h4> Contact no : 8787****** </h4>
+<h4>E-Mail : sonali*******.com</h4><hr>
+
+<h2>
+<u> CAREER OBJECTIVE </u>
+</h2>
+
+<h3> To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills
+</h3>
+<h2>
+
+<u> ACADMIC QUALIFICATION </u>
+</h2>
+
+ 
+  <ul><h3> <b>
+              <li> Graduation<br>
+              </li><li>Pursuing-ADIT<br>
+              </li><li>ITI(copa)<br>
+              </li><li>Intermediate<br>
+              </li><li>High school</li></b></h3><b><b>
+</b></b></ul><b><b>
+
+<h2>
+<u> STRENGTH</u>
+</h2>
+ 
+<ul> 
+          <b>
+          <h3>
+          <li>Focused with positive attitude
+          </li><li>Self Motivated</li>
+          </h3><h3>
+          <b>
+</b></h3></b></ul><b><b>
+
+<h2><b><u>HOBBIES</u> </b></h2><b>
+<ul><h3>
+<li>Travelling 
+</li><li>Playing bat minton
+</li><li>Listening music</li></h3></ul><b>
+
+<h2><u>DECLARATION</u></h2>
+<h3><b>The information stated above is true to the best of my knowledge and belief.
+</b></h3><b><b>
+
+ <br> DATE       :___/ ___/___   <br>
+<br>
+<br>                  
+                                                                                 
+                                                                       <b><strong>(Sonali Mishra)</strong></b>
+  
+ 
+
+
+                                             </b></b>
+
+
+</b></b></b></b></b></b></body></html>
